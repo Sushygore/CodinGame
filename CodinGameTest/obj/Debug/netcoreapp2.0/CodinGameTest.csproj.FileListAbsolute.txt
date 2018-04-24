@@ -1,0 +1,17 @@
+C:\Users\Client\Projects\CodinGame\CodinGameTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Client\Projects\CodinGame\CodinGameTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Client\Projects\CodinGame\CodinGameTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Client\Projects\CodinGame\CodinGameTest\bin\Debug\netcoreapp2.0\CodinGameTest.deps.json
+C:\Users\Client\Projects\CodinGame\CodinGameTest\bin\Debug\netcoreapp2.0\CodinGameTest.runtimeconfig.json
+C:\Users\Client\Projects\CodinGame\CodinGameTest\bin\Debug\netcoreapp2.0\CodinGameTest.runtimeconfig.dev.json
+C:\Users\Client\Projects\CodinGame\CodinGameTest\bin\Debug\netcoreapp2.0\CodinGameTest.dll
+C:\Users\Client\Projects\CodinGame\CodinGameTest\bin\Debug\netcoreapp2.0\CodinGameTest.pdb
+C:\Users\Client\Projects\CodinGame\CodinGameTest\bin\Debug\netcoreapp2.0\CodinGame.dll
+C:\Users\Client\Projects\CodinGame\CodinGameTest\bin\Debug\netcoreapp2.0\CodinGame.pdb
+C:\Users\Client\Projects\CodinGame\CodinGameTest\obj\Debug\netcoreapp2.0\CodinGameTest.csprojResolveAssemblyReference.cache
+C:\Users\Client\Projects\CodinGame\CodinGameTest\obj\Debug\netcoreapp2.0\CodinGameTest.csproj.CoreCompileInputs.cache
+C:\Users\Client\Projects\CodinGame\CodinGameTest\obj\Debug\netcoreapp2.0\CodinGameTest.AssemblyInfoInputs.cache
+C:\Users\Client\Projects\CodinGame\CodinGameTest\obj\Debug\netcoreapp2.0\CodinGameTest.AssemblyInfo.cs
+C:\Users\Client\Projects\CodinGame\CodinGameTest\obj\Debug\netcoreapp2.0\CodinGameTest.csproj.CopyComplete
+C:\Users\Client\Projects\CodinGame\CodinGameTest\obj\Debug\netcoreapp2.0\CodinGameTest.dll
+C:\Users\Client\Projects\CodinGame\CodinGameTest\obj\Debug\netcoreapp2.0\CodinGameTest.pdb

@@ -169,13 +169,21 @@ public class Batman
         return X == other.X && Y == other.Y;
     }
 
-    /* public override bool Equals(object obj)
+    public override bool Equals(object obj)
     {
         if (ReferenceEquals(null, obj)) return false;
         if (ReferenceEquals(this, obj)) return true;
         if (obj.GetType() != this.GetType()) return false;
-        return Equals((Batman) obj);
-    } */
+        return Equals((Batman)obj);
+    }
+
+    public override int GetHashCode()
+    {
+        var hashCode = 1861411795;
+        hashCode = hashCode * -1521134295 + X.GetHashCode();
+        hashCode = hashCode * -1521134295 + Y.GetHashCode();
+        return hashCode;
+    }
 
     public string Move(int jump, Direction direction)
     {
